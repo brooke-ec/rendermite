@@ -1,0 +1,20 @@
+{
+	"parent": "minecraft:item/template_skull",
+	"textures": {
+		"texture": "entity/skeleton/skeleton"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [6, 4, 8, 8], "texture": "#texture"},
+				"east": {"uv": [4, 4, 6, 8], "texture": "#texture"},
+				"south": {"uv": [2, 4, 4, 8], "texture": "#texture"},
+				"west": {"uv": [0, 4, 2, 8], "texture": "#texture"},
+				"up": {"uv": [4, 4, 2, 0], "texture": "#texture"},
+				"down": {"uv": [6, 0, 4, 4], "texture": "#texture"}
+			}
+		}
+	]
+}

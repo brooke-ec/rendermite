@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/zombie_head",
+	"textures": {
+		"texture": "entity/steve"
+	}
+}

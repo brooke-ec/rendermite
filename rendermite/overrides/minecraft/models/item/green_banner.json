@@ -1,0 +1,6 @@
+{
+  "textures": {
+      "color": "entity/banner/color/green"
+  },
+  "parent": "minecraft:item/template_banner"
+}

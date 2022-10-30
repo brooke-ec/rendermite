@@ -1,0 +1,7 @@
+{
+    "parent": "item/chest",
+    "textures": {
+		"chest": "entity/chest/ender",
+        "particle": "block/obsidian"
+    }
+}

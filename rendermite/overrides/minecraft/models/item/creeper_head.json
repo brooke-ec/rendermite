@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/skeleton_skull",
+  "textures": {
+    "texture": "minecraft:entity/creeper/creeper"
+  }
+}
